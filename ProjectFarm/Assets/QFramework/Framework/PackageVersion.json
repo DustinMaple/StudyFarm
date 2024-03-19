@@ -1,0 +1,20 @@
+{
+    "Id": "",
+    "Version": "v1.0.124",
+    "Type": 0,
+    "AccessRight": 0,
+    "DownloadUrl": "",
+    "InstallPath": "Assets/QFramework/Framework/",
+    "IncludeFileOrFolders": [
+        "Assets/QFramework/Framework",
+        "Assets/QFramework/Toolkits"
+    ],
+    "DocUrl": "https://liangxiegame.com",
+    "Readme": {
+        "version": "v1.0.124",
+        "content": "* LocaleKit 获取当前语言时确保初始化\n* 增加 OnDeselectUnityEvent 组件\n* 增加 OnSelectUnityEvent 组件\n* PlatformCheck 增加 OSX 平台的判断\n",
+        "author": "liangxie",
+        "date": "2024 年 03 月 12 日 15:41",
+        "PackageId": ""
+    }
+}
